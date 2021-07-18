@@ -78,7 +78,7 @@ class Publications extends React.Component {
                   <div className="col-md-12">
                     <div className="about-me pt-4 pt-md-0">
                       <div className="title-box-2">
-                        <h3 className="title-left">Publications</h3>
+                        <h3 className="title-left">Selected Publications</h3>
                       </div>
                       <h3 className="lead"> <b>Conferences</b> </h3>
                       

@@ -25,7 +25,7 @@ class Resume extends Component {
                               startYear={2016}
                               endYear={"2021 (Expected)"}
                               schoolName="University of Illinois at Chicago (UIC)"
-                              schoolSubtitle="Computer Science (Human-Computer Interface and Data Mining Concerntration"
+                              schoolSubtitle="Computer Science (Human-Computer Interface and Data Mining Concerntration)"
                               title=""
                               Advisor="Dr.Leilah Lyons"
                               />
@@ -34,7 +34,7 @@ class Resume extends Component {
                                 startYear={2012}
                                 endYear={2014}
                                 schoolName="University of Illinois at Chicago (UIC)"
-                                schoolSubtitle="Computer Science (Human-Computer Interface and Educational Data Mining Concerntration"
+                                schoolSubtitle="Computer Science (Human-Computer Interface and Educational Data Mining Concerntration)"
                                 title= "Developing Computational Methods to Measure and Track Learners ’ Spatial Reasoning in an Open-Ended Simulation"
                                 Advisor="Dr.Leilah Lyons"
                                   />
@@ -50,8 +50,17 @@ class Resume extends Component {
                                 <hr style={{marginLeft: '50px', marginRight: '50px',borderTop: '2px solid white'}} />
                                 <h3 className="lead"><b>Research and Teaching Experience</b></h3>
                                 <Work
-                              startYear={"Jun 2019"}
-                              endYear={"Aug 2020"}
+                              startYear={"Jul 2021"}
+                              endYear={"Present"}
+                              companyName="Digital Promise, CA"
+                              jobName="Learning Sciences and Technology Post Doctoral Researcher"
+                              jobDescription="Focus on issues and challenges of Artificial Intelligence in future learning technologies. 
+                              Organize online working groups of scholars and develop research reports that synthesize content."
+                              />
+
+                                <Work
+                              startYear={"Jun 2017"}
+                              endYear={"Jan 2021"}
                               companyName="New York Hall of Science, NY"
                               jobName="Data Mining and Visualization Research Assistant"
                               jobDescription="Deploy data-collection scripts, data mining algorithms and web-based visualizations for visitor exhibit interaction data. Conduct participatory design sessions for designing facilitator data-driven analytics based dashboard to help visitor interactions in the museum."
