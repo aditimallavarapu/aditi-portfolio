@@ -163,6 +163,7 @@ class Contact extends React.Component {
                         </p>
                          <ul className="list-ico">
                                 <li><a href="mailto:amalla5@uic.edu"><span className="ion-email"> amalla5@uic.edu</span></a></li>
+                                <li><a href="mailto:amallavarapu@digitalpromise.org"><span className="ion-email"> amallavarapu@digitalpromise.org</span></a></li>
                           </ul> 
                           </div>
                       <div className="socials">

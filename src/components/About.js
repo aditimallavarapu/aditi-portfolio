@@ -48,7 +48,6 @@ class About extends Component {
                               </Cell>
                               <Cell col = {12}>
                               <p>
-                              
                               In previous life, Aditi was a software developer working as a technical consultant for a huge health-care provider 
                               developing and improving the health-care administrative infrastructure, acquiring developmental, 
                               organizational and logistical skills by working individually as well as in team-oriented settings during this time.
