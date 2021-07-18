@@ -57,6 +57,13 @@ class Resume extends Component {
                               jobDescription="Focus on issues and challenges of Artificial Intelligence in future learning technologies. 
                               Organize online working groups of scholars and develop research reports that synthesize content."
                               />
+                              <Work
+                              startYear={"Jul 2021"}
+                              endYear={"Present"}
+                              companyName="University of Pittsburgh, PA"
+                              jobName="Artificial Intelligence for Education Post Doctoral Researcher"
+                              jobDescription="Develop Artificial Intelligence solutions for future learning technologies."
+                              />
 
                                 <Work
                               startYear={"Jun 2017"}
