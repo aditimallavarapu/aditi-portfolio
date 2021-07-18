@@ -28,21 +28,27 @@ class About extends Component {
                             </Cell>
                             <Cell col={5}>
                             <p>
-                            Aditi Mallavarapu is a Computer Science PhD student, teaching assistant and researcher at University of Illinois at Chicago. 
-                            Her research projects all have the shared goal of building computational methods and tools to understand, highlight, support and 
-                            improve exploration-based learning in open-ended learning environments. She draws upon the theoretical perspectives offered by the 
-                            learning sciences and technical perspectives offered by the machine learning and data mining algorithms to develop and deploy analytics 
-                            embedded within digital learning systems. </p>
-                            <p> Her interest in research was inspired by her decision to take a more difficult route of a Master's thesis 
-                              during her graduate school, where she set out to evaluate and support digital educational experiences for one such 
-                              open-ended environment. She used the data mining methods to uncover patterns in the learner interaction data to evaluate 
-                              the design of the educational tool, empirically supporting learning by exploration. 
+                            Aditi Mallavarapu is working as a post doctoral learning sciences and technology researcher at Digital Promise. 
+                            She is a fifth year PhD student at University of Illinois at Chicago. Her research projects all have the shared 
+                            goal of building computational methods and tools to understand, highlight, support and improve exploration-based 
+                            learning in open-ended learning environments. She draws upon the theoretical perspectives offered by the learning 
+                            sciences and technical perspectives offered by the machine learning and data mining algorithms merging them with 
+                            human-centered techniques to develop and deploy analytics embedded within digital learning systems. Her research 
+                            interests are to employ technical computational techniques and data-driven methods to improve the phenomenon of 
+                            learning STEM concepts in non-traditional learning environments like museum exhibits, games, and other 
+                            non-conventional learning media.
+ </p>
+                            <p> The spark towards research was ignited by her decision to take a more difficult route of a Master's thesis during her 
+                              graduate school, where she set out to design and support digital educational experiences. She describes the experience 
+                              to be more than just creating an artifact using computers, a creative process of ideating a tool, a tool made purely out 
+                              of data, by uncovering patterns that lay beneath the surface of the data. Her first research experience gave her a sense 
+                              of responsibility to use the uncovered information to inform and support the student learning processes.
                               </p>
                               <p>
                               
-                              Following graduate school, Aditi worked as a technical consultant for a huge health-care provider developing and improving 
-                              software solutions for health-care  administrative tasks. She soon realized that her interests lay in the sense of responsibility, 
-                              rigour and achievement obtained from discovering patterns in educational data, pursuing research. 
+                              In previous life, Aditi was a software developer working as a technical consultant for a huge health-care provider 
+                              developing and improving the health-care administrative infrastructure, acquiring developmental, 
+                              organizational and logistical skills by working individually as well as in team-oriented settings during this time.
                               </p>
                               </Cell>
                               <Cell col = {12}>
@@ -67,8 +73,6 @@ class About extends Component {
                                 She wishes to employ her scientific rigor, technical skills, and drive to use data-driven methods to improve the phenomenon
                                  of learning in non-traditional learning environments like museum exhibits, games, and other non-conventional learning media 
                                  through her upcoming career decisions.  
-
-
                               </p>
 
                             </Cell>
