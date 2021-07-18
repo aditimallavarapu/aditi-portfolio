@@ -44,14 +44,15 @@ class About extends Component {
                               of data, by uncovering patterns that lay beneath the surface of the data. Her first research experience gave her a sense 
                               of responsibility to use the uncovered information to inform and support the student learning processes.
                               </p>
+                              
+                              </Cell>
+                              <Cell col = {12}>
                               <p>
                               
                               In previous life, Aditi was a software developer working as a technical consultant for a huge health-care provider 
                               developing and improving the health-care administrative infrastructure, acquiring developmental, 
                               organizational and logistical skills by working individually as well as in team-oriented settings during this time.
                               </p>
-                              </Cell>
-                              <Cell col = {12}>
                               <p>
                               She went back to graduate school for a Doctorate degree in Computer Science to pursue education based research. Since then, 
                               she has worn many hats working as a software developer, teaching assistant, adjunct professor, mentor, designer and a researcher
