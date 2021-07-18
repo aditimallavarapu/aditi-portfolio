@@ -28,12 +28,12 @@ class News extends React.Component {
                     <li><b>October 2020</b>  Accepted to compete for funding through Schimdt Futures tools competition to develop a teacher facing dashboard.</li>
                     <li><b>October 2020</b>  Virtually organized the MobileCHI2020 with University of Oldenberg, Germany</li>
                     <li><b>July 2020</b>  My work got accepted for Doctoral Consortium in EDM2020</li>
-                    <li><b>December 2020</b>Work shortlisted for Schimdt Futures Tools Competition for initial seed grant</li>
-                    <li><b>December 2020</b>Invited to present my work at the 5th Conference on Complex Systems, 
+                    <li><b>December 2020</b> Work shortlisted for Schimdt Futures Tools Competition for initial seed grant</li>
+                    <li><b>December 2020</b> Invited to present my work at the 5th Conference on Complex Systems, 
                     Satellite Symposium on Complex Systems and Education: Research and Practice. </li>
                     <li><b>March 2021</b> Defended my Preliminary Examination for Doctoral degree in Computer Science</li>
-                    <li><b>April 2021</b>Our paper on Coding scheme collective problem solving regulation in immersive environments got accepted for CSCL 2021</li>
-                    <li><b>July 2021</b>Started Post doctoral position at Digital Promise</li>
+                    <li><b>April 2021</b> Our paper on Coding scheme collective problem solving regulation in immersive environments got accepted for CSCL 2021</li>
+                    <li><b>July 2021</b> Started Post doctoral position at Digital Promise</li>
                   </ul>
                 </div>
               </div>
