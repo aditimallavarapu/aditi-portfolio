@@ -27,7 +27,26 @@ class About extends Component {
                             <Cell col={1}>
                             </Cell>
                             <Cell col={5}>
-                            <p>
+                            Aditi Mallavarapu is a Technology and Learning Sciences Postdoctoral researcher at Digital Promise Global, 
+                            working as a part of the Center for Integrated Research in Computing and Learning Sciences (CIRCLS) hub 
+                            where she specializes in creating data-driven resources for researchers in the community. She is also a visiting 
+                            scholar at the Learning Research and Development Center (LRDC) at the University of Pittsburgh, where she uses 
+                            participatory design to develop culturally responsive technology for young learners to learn data literacy and advocacy skills. 
+                            She earned her PhD in Computer Science from University of Illinois at Chicago. Her work uniquely investigates 
+                            the underexplored space of applying human-centered learning analytics and machine learning techniques for 
+                            exploration-based learning that takes place in complex open-ended learning environments (e.g., museum exhibits).
+
+                            She brings with her the experience of innovating data-driven solutions 
+                            at a science center, New York Hall of Science working as Digital Learning Research Assistant. 
+                            She developed a computational technique that could collect and digest visitor interaction data and generate 
+                            real-time formative feedback for the educators (the-human-in-the-loop) to guide the visitors interacting with 
+                            the one of the kind mixed-reality, large-scale digital exhibit Connected Worlds. Combining the human-centered 
+                            approach working alongside educators, learners and other practitioners, with the technical data-driven approaches, 
+                            Aditi is driven to improve and aid learning in open-ended learning environments designed to engage learners 
+                            in real-world complex problems. You can reach Aditi at 
+                            <span class="email"><a href="mailto:amallavarapu@digitalpromise.org">amallavarapu@digitalpromise.org</a></span>
+
+                            /*<p>
                             Aditi Mallavarapu is working as a post doctoral learning sciences and technology researcher at Digital Promise. 
                             She is a fifth year PhD student at University of Illinois at Chicago. Her research projects all have the shared 
                             goal of building computational methods and tools to understand, highlight, support and improve exploration-based 
@@ -37,7 +56,7 @@ class About extends Component {
                             interests are to employ technical computational techniques and data-driven methods to improve the phenomenon of 
                             learning STEM concepts in non-traditional learning environments like museum exhibits, games, and other 
                             non-conventional learning media.
- </p>
+                             </p>
                             <p> The spark towards research was ignited by her decision to take a more difficult route of a Master's thesis during her 
                               graduate school, where she set out to design and support digital educational experiences. She describes the experience 
                               to be more than just creating an artifact using computers, a creative process of ideating a tool, a tool made purely out 
@@ -73,7 +92,7 @@ class About extends Component {
                                 She wishes to employ her scientific rigor, technical skills, and drive to use data-driven methods to improve the phenomenon
                                  of learning in non-traditional learning environments like museum exhibits, games, and other non-conventional learning media 
                                  through her upcoming career decisions.  
-                              </p>
+                              </p>*/
 
                             </Cell>
 

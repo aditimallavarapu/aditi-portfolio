@@ -11,6 +11,7 @@ class Work extends Component {
           <div className="col-md-8">
             <p className="lead" style={{marginTop:'0px',marginBottom:'0px', }}><b>{this.props.jobName}</b></p>
           <p className="lead" style={{marginTop:'0px',marginBottom:'0px', }}>{this.props.companyName}</p>
+          <p className="lead" style={{marginTop:'0px',marginBottom:'0px', }}>{this.props.teamName}</p>
           <p className="lead" style={{marginTop:'0px',marginBottom:'0px', }}>{this.props.jobDescription}</p>
           </div>
         </div>
