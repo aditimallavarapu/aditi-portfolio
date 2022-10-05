@@ -12,7 +12,7 @@ class Resume extends Component {
           <div className="row">
             <div className="col-sm-12">
               <div>
-                <div id="about" className="box-shadow-full">
+                <div className="box-shadow-full">
                   <div className="row">
                     <div className="col-md-12">
                       <div className="title-box-2">
