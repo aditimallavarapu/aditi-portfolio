@@ -1,6 +1,8 @@
 To make changes to the website:
 
 1) Generate new key from github: This is for two factor authentication(Follow instructions here: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+
+if error: https://ginnyfahs.medium.com/github-error-authentication-failed-from-command-line-3a545bfd0ca8
 2) Make sure you are in the project folder and no other processes are running (to stop all processing in the terminal: Ctrl + c in Windows OR Cmd + c in Mac)
 
 ## Deploy the build folder:
