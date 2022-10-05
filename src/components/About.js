@@ -46,7 +46,7 @@ class About extends Component {
                             in real-world complex problems. You can reach Aditi at 
                             <span class="email"><a href="mailto:amallavarapu@digitalpromise.org">amallavarapu@digitalpromise.org</a></span>
 
-                            /*<p>
+                            {/*<p>
                             Aditi Mallavarapu is working as a post doctoral learning sciences and technology researcher at Digital Promise. 
                             She is a fifth year PhD student at University of Illinois at Chicago. Her research projects all have the shared 
                             goal of building computational methods and tools to understand, highlight, support and improve exploration-based 
@@ -92,7 +92,7 @@ class About extends Component {
                                 She wishes to employ her scientific rigor, technical skills, and drive to use data-driven methods to improve the phenomenon
                                  of learning in non-traditional learning environments like museum exhibits, games, and other non-conventional learning media 
                                  through her upcoming career decisions.  
-                              </p>*/
+                            </p>*/}
 
                             </Cell>
 
