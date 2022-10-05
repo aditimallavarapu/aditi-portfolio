@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import { Grid, Cell } from 'react-mdl';
-import causal from '../img/causal2.png'
+import causal from '../img/causal.png'
 import '../components/stars.scss'
 import SeeMore from '../components/SeeMore'
 import CW from '../img/CW.png'
@@ -9,7 +9,7 @@ class causalPage extends Component {
   render() {
     return(
         <>
-        <section id="openpose" className="sect-pt4 route subskill background" >
+        <section id="causal" className="sect-pt4 route subskill background" >
           <div className="container">
             <div className="row move-little">
               <div className="col-sm-12">

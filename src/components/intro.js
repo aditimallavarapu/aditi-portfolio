@@ -48,7 +48,7 @@ class Intro extends React.Component {
                 </strong>
               </p>
               <p>
-              PostDoctoral Researcher at Digital Promise Global and University of Pittsburgh with interdisciplinary interests for leveraging Data mining, Machine Learning, Artificial Intelligence for Human-Computer Interaction (HCI) and Learning Sciences.
+              Post doctoral Researcher at Digital Promise Global and University of Pittsburgh with interdisciplinary interests for leveraging Data mining, Machine Learning, Artificial Intelligence for Human-Computer Interaction (HCI) and Learning Sciences.
               </p>
             <BottomNavigation className="intro-icons" showLabels>
                     

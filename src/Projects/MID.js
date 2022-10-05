@@ -98,4 +98,4 @@ class MIDPage extends Component {
   }
 }
 
-export default computationalPage;
+export default MIDPage;

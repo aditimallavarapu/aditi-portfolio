@@ -9,7 +9,7 @@ class dashboardPage extends Component {
   render() {
     return(
         <>
-        <section id="openpose" className="sect-pt4 route subskill background" >
+        <section id="dashboard" className="sect-pt4 route subskill background" >
           <div className="container">
             <div className="row move-little">
               <div className="col-sm-12">
