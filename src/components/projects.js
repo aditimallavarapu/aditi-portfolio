@@ -1,7 +1,7 @@
 import React from "react";
 import openpose from "../img/openpose.png";
 import sna from '../img/sna.png'
-import causal from "../img/causal.png"
+import causal from "../img/causal2.png"
 import ctcw from "../img/ctcw.png"
 import mining from "../img/mining.png"
 import netlogo from "../img/netlogo.png"
@@ -13,6 +13,10 @@ import feedback from "../img/feedback.png"
 import gesture from "../img/gesture.png"
 import tool from "../img/tool.png"
 import carbon from "../img/carbon.png"
+import data from "../img/data.png"
+import circlssna from "../img/CIRCLSsna.png"
+import mid from "../img/mid.png"
+import cm from "../img/computationalmodel.png"
 import {Link} from 'react-router-dom';
 import "./stars.scss";
 
@@ -32,6 +36,63 @@ class Projects extends React.Component {
                 <div className="line-mf"></div>
               </div>
             </div>
+            <div className="title-box text-left">
+                <h3 className="title" style={{color:"white", marginTop: "10px", marginBottom:"10px"}}>Recent Projects</h3>
+          </div>
+          <div className="row">
+            <div className="col-md-4">
+              <div className="work-box">
+              <Link to="/DATA" >
+                  <div className="work-img">
+                    <img src={data} alt="" className="img-fluid" />
+                  </div>
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-12">
+                        <h2 className="w-title">Data Literacy</h2>
+                        <div className="w-more">
+                          
+                            <span className="w-ctegory" >
+                              Co-designing for data literacy 
+                           </span>
+                        
+                        </div>
+                      </div>
+                      
+                    </div>
+                  </div>
+               
+                </Link>
+              </div>
+            </div>
+
+            <div className="col-md-4">
+              <div className="work-box">
+              <Link to="/CIRCLS" >
+                  <div className="work-img">
+                    <img src={circlssna} alt="" className="img-fluid" />
+                  </div>
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-12">
+                        <h2 className="w-title">Mapping Research</h2>
+                        <div className="w-more">
+                          
+                            <span className="w-ctegory" >
+                              Mapping Research in emerging technology for education. 
+                           </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </Link>
+              </div>
+            </div>
+
+          </div>
+
+
+
             <div className="row">
             <div className="title-box text-left">
                 <h3 className="title" style={{color:"white", marginTop: "10px", marginBottom:"10px"}}>Connected Worlds</h3>
@@ -78,9 +139,56 @@ class Projects extends React.Component {
             
           </div>
           <div className="title-box text-left">
-                <h3 className="title" style={{color:"white", marginTop: "10px", marginBottom:"10px"}}>Recent Projects</h3>
+                <h3 className="title" style={{color:"white", marginTop: "10px", marginBottom:"10px"}}>Doctoral Projects</h3>
           </div>
           <div className="row">
+          <div className="col-md-4">
+              <div className="work-box">
+              <Link to="/MID" >
+                  <div className="work-img">
+                    <img src={mid} alt="" className="img-fluid" />
+                  </div>
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-12">
+                        <h2 className="w-title">HCI Design Methodology</h2>
+                        <div className="w-more">
+                            <span className="w-ctegory" >
+                              Modified Implementation Design (MID) 
+                           </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </Link>
+              </div>
+            </div>
+            <div className="col-md-4">
+              <div className="work-box">
+              <Link to="/ComputationalModel" >
+                  <div className="work-img">
+                    <img src={cm} alt="" className="img-fluid" />
+                  </div>
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-12">
+                        <h2 className="w-title">Computational Model</h2>
+                        <div className="w-more">
+                            <span className="w-ctegory" >
+                             Computational Model for generating formative feedback.
+                           </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </Link>
+              </div>
+            </div>
+            </div>
+            <div className="title-box text-left">
+                <h3 className="title" style={{color:"white", marginTop: "10px", marginBottom:"10px"}}>Other Projects</h3>
+          </div>
+            <div className="row">
             <div className="col-md-4">
               <div className="work-box">
               <Link to="/openpose" >
@@ -269,7 +377,6 @@ class Projects extends React.Component {
                 </Link>
               </div>
             </div>
-            
             <div className="col-md-4">
               <div className="work-box-sm">
               <Link to="/netlogo" >
@@ -292,9 +399,10 @@ class Projects extends React.Component {
                 </Link>
               </div>
             </div>
-          
-          
-          
+          </div>
+
+          <div className="title-box text-left">
+                <h3 className="title" style={{color:"white", marginTop: "10px", marginBottom:"10px"}}>Older Projects</h3>
           </div>
           <div className="row">
           <div className="col-md-4">
