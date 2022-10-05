@@ -1,10 +1,11 @@
 import React, {Component} from 'react';
 import { Grid, Cell } from 'react-mdl';
-import netlogo from '../img/netlogo.png'
+import mid from '../img/mid.png'
 import '../components/stars.scss'
 import SeeMore from '../components/SeeMore'
 import CW from '../img/CW.png'
-class netlogoPage extends Component {
+
+class MIDPage extends Component {
   render() {
     return(
         <>
@@ -17,8 +18,8 @@ class netlogoPage extends Component {
                     <div className="col-md-12">
                       
                         <div className="title-box-2">
-                          <h3 className="title-left">Netlogo Based Simulation Modelling</h3>
-                        </div>  
+                          <h3 className="title-left">Design methods for validating computational outputs</h3>
+                         </div> 
                         <div className="row" style={{marginTop:"0px"}}>
                         <div className="text-left">
                           <h5 className="title" style={{marginTop: "5px", marginBottom:"0px"}}>Connected Worlds</h5>
@@ -26,7 +27,7 @@ class netlogoPage extends Component {
                         <div className="col-sm-12">
                               <img src={CW} alt="" className="img-fluid" />
                               <p style={{marginTop:"5px"}}>
-                              My research interests focuss on understanding how learning takes place in
+                              My research interests focuses on understanding how learning takes place in
                               open-ended learning environments (where learners learn via exploration). 
                               My most recents projects are related to one such open-ended learning exhibit <b>Connected Worlds.</b> 
                               </p>  
@@ -62,28 +63,22 @@ class netlogoPage extends Component {
                           </div>
                         </div>
                         <div>
-                        <h4>Using Simulation modelling as a tool for Collection design </h4>
+                        <h4>Modified Implementation design for design of data-driven socio-technical learning and teaching tools </h4>
                         </div>
-                        
                         <Grid>
                             <Cell col={6}>
-                            <img src={netlogo} alt="" className="img-fluid" />
+                            <img src={mid} alt="" className="img-fluid" />
                             </Cell>
                             <Cell col={1}>
                             </Cell>
                             <Cell col={5}>
                              
                              <h6>
-                             Created a data-driven model of how museum visitors moved around within and made use of a pilot version of the Connected Worlds exhibit.  Used a complex system simulation tool (NetLogo) to model the layout and movement of visitors and the space, as informed by real-world measurements of visitor movements and engagement. Ran dozens of different permutations to understand which changes to the exhibit design could improve the collective usability of Connected Worlds.                            
-                              </h6>
-                              <h6>
-                                 <u>Related Publication: </u>
-                                 <div>
-                                 Lyons, L., & <b>Mallavarapu, A.</b> (2021). Collective Usability: Using Simulation Tools to Explore Embodied Design Challenges in Immersive, Shared Mixed-Reality Experiences. Journal of Educational Technology & Society, 24(2).
-                                <div style={{textAlign: "right", marginRight:"10px"}}> <a style={{color:"black"}} href={"https://www.jstor.org/stable/27004936"} target="_blank" rel="noopener noreferrer"> Link</a></div>
-                          </div>
+                             Designing data-driven tools for learning and teaching does not end with generating computational outputs: it is critical to attend to the ways those outputs will be integrated into human practices. The information a computational system can provide shapes which educational practices are possible. To attend to these intertwined dependencies, it is crucial to engage practitioners to validate the interpretability (what) and utility (how) of the outputs. This methodology applied to computationally generated formative fugues, (1) helped identify the alignment of the fugues with the educational goals of the learning environment, (2) highlighted the interpretability of the information by identifying practices afforded by fugues, and (3) suggested recommendations for delivery of the fugues. This design technique dubbed as Multistage Implementation Design (MID), is inspired from the implementation design technique by (Wise & Vytasek, 2017) used for evaluating learning technology designs. 
                              </h6>
+                            
                             </Cell>
+
                         </Grid>
                       
                     </div>
@@ -103,4 +98,4 @@ class netlogoPage extends Component {
   }
 }
 
-export default netlogoPage;
+export default computationalPage;

@@ -168,7 +168,7 @@ class Navbar extends React.Component {
           </button>
           <div>
           <h4 className="banner no-margin">Aditi Mallavarapu </h4>
-          <h6 className="subtitle no-margin">Researcher | Instructor | Developer</h6>
+          <h6 className="subtitle no-margin">Researcher | Computer Scientist</h6>
           </div>
           <div className="align-footer">
             <Footer />

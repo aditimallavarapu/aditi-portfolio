@@ -39,8 +39,8 @@ class Projects extends React.Component {
               <div className="col-sm-12">
                   <img src={CW} alt="" className="img-fluid" />
                   <p style={{marginTop:"5px", color:"white"}}>
-                  My research interests focuss on understanding how learning takes place in
-                  open-ended learning environments (where learners learn via exploration). 
+                  My research interests focuses on understanding how learning takes place in
+                  open-ended learning environments where learners learn via exploration. 
                   My most recents projects are related to one such open-ended learning exhibit <b>Connected Worlds.</b> 
                   </p>  
                   <p style={{marginTop:"5px", color:"white"}}>

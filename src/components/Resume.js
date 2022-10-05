@@ -52,17 +52,17 @@ class Resume extends Component {
                                 <Work
                               startYear={2021}
                               endYear={"Present"}
-                              companyName="Digital Promise, CA"
+                              companyName="Digital Promise Global, CA"
                               teamName = "Center for Integrated Research in Computing and Learning Sciences (CIRCLS)"
                               jobName="Learning Sciences and Technology Post Doctoral Researcher"
-                              jobDescription="Focus on issues and challenges of Artificial Intelligence in future learning technologies. 
-                              Organize online working groups of scholars and develop research reports that synthesize content."
+                              jobDescription="Data driven approach to highlighting issues and challenges of designing, and implementing Artificial Intelligence and emergent learning technology research. 
+                               Enagge with researchers and develop research reports that synthesize content."
                               />
                               <Work
                               startYear={2021}
                               endYear={"Present"}
                               companyName="University of Pittsburgh, PA"
-                              teamName="Learning Researchh and Development Center (LRDC)"
+                              teamName="Learning Research and Development Center (LRDC)"
                               jobName="Artificial Intelligence for Education Post Doctoral Researcher"
                               jobDescription="Develop Artificial Intelligence solutions for future learning technologies."
                               />
@@ -78,7 +78,7 @@ class Resume extends Component {
 
                               <Work
                                 startYear={"Aug 2016"}
-                                endYear={"Present"}
+                                endYear={"May 2021"}
                                 jobName="Teaching Assistant"
                                 companyName="University of Illinois at Chicago, IL"
                                 teamName="Department of Computer Science"
@@ -95,14 +95,6 @@ class Resume extends Component {
                                 jobDescription="Single-handedly design curriculum and lead classes and labs for 30 high school seniors, to pique their interest in Computer Science through an introductory course of Discovering Computer Science for the summer semester.
                                 "
                                 /> 
-                                <Work
-                              startYear={"Jul 2017"}
-                              endYear={"Aug 2017"}
-                              companyName="New York Hall of Science, NY"
-                              jobName="Research Assistant"
-                              teamName="Digital Learning"
-                              jobDescription="Solely responsible for deployment and implementation of python scripts to scrape live data, design dashboard visualizations, implement data mining routines for log-files and computer vision routines to analyze video data for a museum exhibit."
-                              /> 
                             <h3 className="lead"><b>Industry Experience</b></h3>
                             <Work
                               startYear={"Feb 2015"}
@@ -112,8 +104,7 @@ class Resume extends Component {
                               teamName="Back-end Development team"
                               jobDescription="Responsible for design, development and testing of web application and integration
                               projects using Object Oriented technologies such as Core Java, J2EE, JSP, JDBC, Java Beans, 
-                            Web Services (REST/SOAP), XML, XSLT.
-                            "
+                            Web Services (REST/SOAP), XML, XSLT."
                               /> 
                               <Work
                               startYear={"Jun 2013"}

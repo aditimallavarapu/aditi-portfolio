@@ -1,10 +1,11 @@
 import React, {Component} from 'react';
 import { Grid, Cell } from 'react-mdl';
-import netlogo from '../img/netlogo.png'
+import cm from '../img/computationalmodel.png'
 import '../components/stars.scss'
 import SeeMore from '../components/SeeMore'
 import CW from '../img/CW.png'
-class netlogoPage extends Component {
+
+class computationalPage extends Component {
   render() {
     return(
         <>
@@ -17,8 +18,8 @@ class netlogoPage extends Component {
                     <div className="col-md-12">
                       
                         <div className="title-box-2">
-                          <h3 className="title-left">Netlogo Based Simulation Modelling</h3>
-                        </div>  
+                          <h3 className="title-left">Computational Methods for Formative Feedback</h3>
+                         </div> 
                         <div className="row" style={{marginTop:"0px"}}>
                         <div className="text-left">
                           <h5 className="title" style={{marginTop: "5px", marginBottom:"0px"}}>Connected Worlds</h5>
@@ -26,7 +27,7 @@ class netlogoPage extends Component {
                         <div className="col-sm-12">
                               <img src={CW} alt="" className="img-fluid" />
                               <p style={{marginTop:"5px"}}>
-                              My research interests focuss on understanding how learning takes place in
+                              My research interests focuses on understanding how learning takes place in
                               open-ended learning environments (where learners learn via exploration). 
                               My most recents projects are related to one such open-ended learning exhibit <b>Connected Worlds.</b> 
                               </p>  
@@ -62,28 +63,28 @@ class netlogoPage extends Component {
                           </div>
                         </div>
                         <div>
-                        <h4>Using Simulation modelling as a tool for Collection design </h4>
+                        <h4>Computational pipeline to extract novel formative feedback for complex open-ended learning environments </h4>
                         </div>
-                        
                         <Grid>
                             <Cell col={6}>
-                            <img src={netlogo} alt="" className="img-fluid" />
+                            <img src={cm} alt="" className="img-fluid" />
                             </Cell>
                             <Cell col={1}>
                             </Cell>
                             <Cell col={5}>
                              
                              <h6>
-                             Created a data-driven model of how museum visitors moved around within and made use of a pilot version of the Connected Worlds exhibit.  Used a complex system simulation tool (NetLogo) to model the layout and movement of visitors and the space, as informed by real-world measurements of visitor movements and engagement. Ran dozens of different permutations to understand which changes to the exhibit design could improve the collective usability of Connected Worlds.                            
-                              </h6>
-                              <h6>
+                             Conceived a novel data-driven computational approach to extract formative feedback, called “formative fugues,” suitable for guiding learners exploring complex systems concepts in open-ended learning environments. The approach learns common patterns of explorations by extracting scientifically meaningful sequences from a corpus of data of prior learners’ explorations of a system. These common patterns, dubbed “fugues”, can be reused, repurposed and reassembled into longer chains much like musical fugues. The computational approach leverages causal modeling followed by pattern matching to identify the formative fugues from among multiple simultaneous causal chains that occur during a given enactment.
+                             </h6>
+                             <h6>
                                  <u>Related Publication: </u>
                                  <div>
-                                 Lyons, L., & <b>Mallavarapu, A.</b> (2021). Collective Usability: Using Simulation Tools to Explore Embodied Design Challenges in Immersive, Shared Mixed-Reality Experiences. Journal of Educational Technology & Society, 24(2).
-                                <div style={{textAlign: "right", marginRight:"10px"}}> <a style={{color:"black"}} href={"https://www.jstor.org/stable/27004936"} target="_blank" rel="noopener noreferrer"> Link</a></div>
+                                    <b>Mallavarapu, A.,</b> Uzzo, S., & Lyons, L. (2021). Formative Fugues: Reconceptualizing Formative Feedback for Complex Systems Learning Environments. International Journal of Complexity in Education, 2(2), 4–46. 
+                                <div style={{textAlign: "right", marginRight:"10px"}}> <a style={{color:"black"}} href={"https://par.nsf.gov/servlets/purl/10355146"} target="_blank" rel="noopener noreferrer"> Link</a></div>
                           </div>
                              </h6>
                             </Cell>
+
                         </Grid>
                       
                     </div>
@@ -103,4 +104,4 @@ class netlogoPage extends Component {
   }
 }
 
-export default netlogoPage;
+export default computationalPage;

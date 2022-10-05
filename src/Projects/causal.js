@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import { Grid, Cell } from 'react-mdl';
-import causal from '../img/causal.png'
+import causal from '../img/causal2.png'
 import '../components/stars.scss'
 import SeeMore from '../components/SeeMore'
 import CW from '../img/CW.png'
@@ -18,7 +18,7 @@ class causalPage extends Component {
                     <div className="col-md-12">
                       
                         <div className="title-box-2">
-                          <h3 className="title-left">Social Network Analysis</h3>
+                          <h3 className="title-left">Causal Mining</h3>
                          </div> 
                         <div className="row" style={{marginTop:"0px"}}>
                         <div className="text-left">
@@ -63,7 +63,7 @@ class causalPage extends Component {
                           </div>
                         </div>
                         <div>
-                        <h4>Social Network Analysis for understanding Collaboration </h4>
+                        <h4>Causal Modelling for generating feedback for Open-ended Learning Environments </h4>
                         </div>
                         <Grid>
                             <Cell col={6}>
@@ -74,7 +74,7 @@ class causalPage extends Component {
                             <Cell col={5}>
                              
                              <h6>
-                             Constructed a low-cost, low-effort,  ethical method to extract “collaboration temperature” from social structures in a co-located museum environment, captured through video data. For each frame network was constructed using the principles of proxemics, social network analysis was used to extract features of collaboration, which were then clustered using KMeans algorithm to decipher social structures. We term the combinations of these social structures as “collaborative temperature” which can be used to understand the collaborative state of the visitors’ interactions in the exhibit. The “collaborative temperature” was used to understand the impact of an educational intervention.
+                             Constructed a causal graphical model of Connected Worlds museum exhibit to generate formative feedback for visitors using their interactions and system events triggered by their collective actions. This involved constructing outcome metrics to evaluate the state of the complex-system environment, selecting the granularity and treatments applied to the visitor action nodes, and computing appropriate time lags to accurately understand the effect of visitors’ interactions on the outcomes. (Mallavarapu, Lyons, Zheleva, & Uzzo, in preparation).
                              </h6>
                             </Cell>
                         </Grid>

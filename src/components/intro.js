@@ -31,15 +31,14 @@ class Intro extends React.Component {
         <div className="intro-content display-table">
           <div className="table-cell">
             <div className="container">
-              <h1 className="intro-title mb-4">Hello, I am Aditi Mallavarapu.</h1>
+              <h1 className="intro-title mb-4">Aditi Mallavarapu</h1>
               <p className="intro-subtitle">
                 <span className="text-slider-items"></span>
                 <strong className="text-slider">
                   <Typed
                     strings={[
                       "Researcher",
-                      "Developer",
-                      "Instructor"
+                      "Computer Scientist"
                     ]}
                     typeSpeed={80}
                     backDelay={1100}
@@ -49,9 +48,7 @@ class Intro extends React.Component {
                 </strong>
               </p>
               <p>
-              A fifth year PhD Student at the Computer Science Deparatment of University of Illinois at Chicago.
-              I am currently working towards my thesis titled <i>"Reconceptualizing Formative Feedback for Complex Systems Learners". </i>
-              My research is multi-disciplinary and lies in the intersection of Human-Computer Interaction (HCI), Data Mining and Learning Sciences.
+              PostDoctoral Researcher at Digital Promise Global and University of Pittsburgh with interdisciplinary interests for leveraging Data mining, Machine Learning, Artificial Intelligence for Human-Computer Interaction (HCI) and Learning Sciences.
               </p>
             <BottomNavigation className="intro-icons" showLabels>
                     

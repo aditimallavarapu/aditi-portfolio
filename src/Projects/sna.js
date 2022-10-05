@@ -78,6 +78,13 @@ class snaPage
                              <h6>
                              Constructed a low-cost, low-effort,  ethical method to extract “collaboration temperature” from social structures in a co-located museum environment, captured through video data. For each frame network was constructed using the principles of proxemics, social network analysis was used to extract features of collaboration, which were then clustered using KMeans algorithm to decipher social structures. We term the combinations of these social structures as “collaborative temperature” which can be used to understand the collaborative state of the visitors’ interactions in the exhibit. The “collaborative temperature” was used to understand the impact of an educational intervention.
                              </h6>
+                             <h6>
+                                 <u>Related Publication: </u>
+                                 <div>
+                                    <b>Mallavarapu, A.,</b> Lyons, L., & Uzzo, S. (2022). Exploring the Utility of Social-Network-Derived Collaborative Opportunity Temperature Readings for Informing Design and Research of Large-Group Immersive Learning Environments. Journal of Learning Analytics, 9(1), 53–76. 
+                                <div style={{textAlign: "right", marginRight:"10px"}}> <a style={{color:"black"}} href={"https://doi.org/10.18608/jla.2022.7419"} target="_blank" rel="noopener noreferrer"> Link</a></div>
+                          </div>
+                             </h6>
                             </Cell>
                         </Grid>
                       
