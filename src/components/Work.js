@@ -4,7 +4,7 @@ class Work extends Component {
   render() {
     return(
       <>
-      <div className="row">
+      <div id="resume" className="row">
           <div className="col-md-4">
             <p className="lead" style={{marginTop:'5px',marginBottom:'0px', }}>{this.props.startYear} - {this.props.endYear}</p>
           </div>

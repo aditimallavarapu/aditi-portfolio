@@ -167,8 +167,8 @@ class Navbar extends React.Component {
             <span></span>
           </button>
           <div>
-          <h4 className="banner no-margin">Aditi Mallavarapu </h4>
-          <h6 className="subtitle no-margin">Researcher | Computer Scientist</h6>
+          <h5 className="banner no-margin">Aditi Mallavarapu </h5>
+          <h6 className="subtitle no-margin">Researcher|Computer Scientist</h6>
           </div>
           <div className="align-footer">
             <Footer />
@@ -189,7 +189,7 @@ class Navbar extends React.Component {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link js-scroll" href="#about">
+                <a className="nav-link js-scroll" href="#resume">
                   Experience
                 </a>
               </li>

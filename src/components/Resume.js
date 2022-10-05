@@ -7,7 +7,7 @@ import "./stars.scss";
 class Resume extends Component {
   render() {
     return(
-        <section id="about" className="about-mf sect-pt4 route background">
+        <section id="resume" className="about-mf sect-pt4 route background">
         <div className="container">
           <div className="row">
             <div className="col-sm-12">

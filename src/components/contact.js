@@ -47,7 +47,7 @@ class Contact extends React.Component {
   
   render() {
     return (
-      <section
+      <section id="contact"
         className="paralax-mf footer-paralax sect-mt4 route subskill background"
                 /*style={{ backgroundImage: "url(" + imageOverlay + ")" }}*/
       >
