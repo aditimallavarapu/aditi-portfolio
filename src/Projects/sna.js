@@ -4,6 +4,7 @@ import sna from '../img/sna.png'
 import '../components/stars.scss'
 import SeeMore from '../components/SeeMore'
 import CW from '../img/CW.png'
+
 class snaPage
  extends Component {
   render() {

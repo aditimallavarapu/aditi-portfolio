@@ -1,15 +1,11 @@
 import React from "react";
-import openpose from "../img/openpose.png";
-import sna from '../img/sna.png'
-import causal from "../img/causal.png"
-import {Link} from 'react-router-dom';
 import "./stars.scss";
-import LoadMore from './LoadMore'
+
 
 class News extends React.Component {
   render() {
     return (
-      <section id="about" className="about-mf sect-pt4 route background">
+      <section id="news" className="about-mf sect-pt4 route background">
         <div className="container">
           <div className="row">
             <div className="col-sm-12">

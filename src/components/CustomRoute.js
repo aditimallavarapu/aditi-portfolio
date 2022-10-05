@@ -21,21 +21,26 @@ import gesturePage from '../Projects/gesture'
 import toolPage from '../Projects/tool'
 import carbonPage from '../Projects/carbon'
 import About from './About'
-
+import News from '/news'
+import DATA from '/Projects/DATA'
+import CIRCLS from '/Projects/CIRCLS'
+import MID from '/Projects/MID'
+import CM from '/Projects/ComputationalModel'
 const CustomRoute = () => {
     return (
       
           <Switch>
             <Route path="/" component={Intro} exact />
            <Route path="/home" component={Intro} />
+           <Route path="/news" component={News} />
             <Route path="/page-top" component={Intro} />
             <Route path="/about" component={Intro} />
             <Route path="/myself" component={About} />
-            <Route path="/work" component={Intro} />
-            <Route path="/experience" component={Intro} />
+            <Route path="/work" component={Projects} />
+            <Route path="/experience" component={Resume} />
 
-            <Route path="/publications" component={Intro} />
-            <Route path="/portfolio" component={Intro} />
+            <Route path="/publications" component={Publications} />
+            <Route path="/portfolio" component={Portfolio} />
             <Route path="/projects" component={Projects} />
            <Route path="/contact" component={Contact} />
             {/*<Route path="/blogs" component={blogs} />*/}
@@ -52,6 +57,10 @@ const CustomRoute = () => {
             <Route path="/gesture" component={gesturePage} />
             <Route path="/tool" component={toolPage} />
             <Route path="/carbon" component={carbonPage} />
+            <Route path="/DATA" component={DATA} />
+            <Route path="/CIRCLS" component={CIRCLS} />
+            <Route path="/MID" component={MID} />
+            <Route path="/CM" component={CM} />
            {/* <Route component={NotFound}/>*/}
           </Switch> 
        

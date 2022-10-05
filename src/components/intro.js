@@ -53,11 +53,11 @@ class Intro extends React.Component {
             <BottomNavigation className="intro-icons" showLabels>
                     
                <BottomNavigationAction icon={<NoteIcon />} className= "intro-icons"
-               onClick={() => window.open(CV)} label="View Resume" />
+               onClick={() => window.open(CV)} label="Vita" />
                
               
               <BottomNavigationAction icon={<CastForEducationIcon />}  className= "intro-icons btn js-scroll px-4" 
-              href="#work" label="View Projects" />
+              href="#work" label="Projects" />
 
             <BottomNavigationAction component={Link} icon={<AccountBoxIcon />}  className= "intro-icons btn" 
               to="/myself" label="About Me" />
