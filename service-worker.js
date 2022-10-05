@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aditi-portfolio/precache-manifest.cb157c4026f3dea2db685ad03334ae2a.js"
+  "/aditi-portfolio/precache-manifest.3092269768fd893babb645428f9584fc.js"
 );
 
 self.addEventListener('message', (event) => {
