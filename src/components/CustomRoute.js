@@ -21,11 +21,11 @@ import gesturePage from '../Projects/gesture'
 import toolPage from '../Projects/tool'
 import carbonPage from '../Projects/carbon'
 import About from './About'
-import News from '/news'
-import DATA from '/Projects/DATA'
-import CIRCLS from '/Projects/CIRCLS'
-import MID from '/Projects/MID'
-import CM from '/Projects/ComputationalModel'
+import News from './news'
+import DATA from '../Projects/DATA'
+import CIRCLS from '../Projects/CIRCLS'
+import MID from '../Projects/MID'
+import CM from '../Projects/ComputationalModel'
 const CustomRoute = () => {
     return (
       
