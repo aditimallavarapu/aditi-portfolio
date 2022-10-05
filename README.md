@@ -1,3 +1,24 @@
+To make changes to the website:
+
+1) Generate new key from github: This is for two factor authentication(Follow instructions here: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+2) Make sure you are in the project folder and no other processes are running (to stop all processing in the terminal: Ctrl + c in Windows OR Cmd + c in Mac)
+
+## Deploy the build folder:
+npm run deploy
+(If you are using GitHub in your code editor, you will see the build folder content being added to the Unstaged Changes - ready to be staged).
+
+## Stage all:
+git add .
+## ..and commit:
+git commit -m "update build for gh-pages"
+## Last step - Push to GitHub:
+git push -u origin master
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
