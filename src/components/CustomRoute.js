@@ -36,8 +36,8 @@ const CustomRoute = () => {
             <Route path="/page-top" component={Intro} />
             <Route path="/about" component={Intro} />
             <Route path="/myself" component={About} />
-            <Route path="/work" component={Projects} />
-            <Route path="/experience" component={Resume} />
+            <Route path="/work" component={Intro} />
+            <Route path="/experience" component={Intro} />
 
             <Route path="/publications" component={Publications} />
             <Route path="/portfolio" component={Portfolio} />
