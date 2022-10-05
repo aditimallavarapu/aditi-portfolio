@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c809430211ff447ba4d7e384ba5fbb5",
+    "revision": "bccf10d475b2dff27fd44838d842e0cf",
     "url": "/aditi-portfolio/index.html"
   },
   {
-    "revision": "6585fd2932998aae4d7d",
-    "url": "/aditi-portfolio/static/css/2.f2f9daf2.chunk.css"
+    "revision": "d64bcea3512ed8bda952",
+    "url": "/aditi-portfolio/static/css/2.cc208727.chunk.css"
   },
   {
-    "revision": "02be558648a2e1b25e64",
-    "url": "/aditi-portfolio/static/css/main.f966d889.chunk.css"
+    "revision": "97444b27c835e0c73e73",
+    "url": "/aditi-portfolio/static/css/main.0487006b.chunk.css"
   },
   {
-    "revision": "6585fd2932998aae4d7d",
-    "url": "/aditi-portfolio/static/js/2.1af0e835.chunk.js"
+    "revision": "d64bcea3512ed8bda952",
+    "url": "/aditi-portfolio/static/js/2.aa3af4af.chunk.js"
   },
   {
     "revision": "ba42e6412eff3bfe95b800a287c06998",
-    "url": "/aditi-portfolio/static/js/2.1af0e835.chunk.js.LICENSE.txt"
+    "url": "/aditi-portfolio/static/js/2.aa3af4af.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "02be558648a2e1b25e64",
-    "url": "/aditi-portfolio/static/js/main.725c6595.chunk.js"
+    "revision": "97444b27c835e0c73e73",
+    "url": "/aditi-portfolio/static/js/main.46e6aa1c.chunk.js"
   },
   {
     "revision": "fa22cb0a881afe412138",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "22b117160526918611f4134b99699fc0",
     "url": "/aditi-portfolio/static/media/Aditi_Mallavarapu_CV.22b11716.pdf"
+  },
+  {
+    "revision": "aea7de1348502f73be8795a9ecd14eb7",
+    "url": "/aditi-portfolio/static/media/CIRCLSsna.aea7de13.png"
   },
   {
     "revision": "09fc1a19b2e9080a751c5b7511a1888f",
@@ -52,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aditi-portfolio/static/media/causal2.112d2e9a.png"
   },
   {
+    "revision": "34d9dda518ed5e38aa2d8c12e9781785",
+    "url": "/aditi-portfolio/static/media/computationalmodel.34d9dda5.png"
+  },
+  {
     "revision": "360de161a90e0c86979ad390cd672877",
     "url": "/aditi-portfolio/static/media/conference1.360de161.pdf"
   },
@@ -62,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "892c66cd18592732daf99ab0b65396cf",
     "url": "/aditi-portfolio/static/media/cut-girl.892c66cd.png"
+  },
+  {
+    "revision": "3f75ed1f880f9610a07bf32b3cc90d55",
+    "url": "/aditi-portfolio/static/media/data.3f75ed1f.jpg"
   },
   {
     "revision": "e0ebaadf4b4bf209c70a00774426ba23",
@@ -114,6 +126,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "96a01d7377ba48816768d0d5e8a408a6",
     "url": "/aditi-portfolio/static/media/journal1.96a01d73.pdf"
+  },
+  {
+    "revision": "f0dab68e772a7fa74cc7d42995926ec2",
+    "url": "/aditi-portfolio/static/media/mid.f0dab68e.png"
   },
   {
     "revision": "2bcbc4d4f1c2adaa6650b925442c4df2",
