@@ -28,8 +28,8 @@ class Publications extends React.Component {
           id: "journal3",
           author:
             "Mallavarapu, A.",
-          otherAuthor: ",Lyons, S., & Uzzo, L. (2022).",
-          moreAuthor:"",
+          otherAuthor:"",
+          moreAuthor:", Lyons, S., & Uzzo, L. (2022).",
           title:"Exploring the Utility of Social-Network-Derived Collaborative Opportunity Temperature Readings for Informing Design and Research of Large-Group Immersive Learning Environments. ",
           venue: "Journal of Learning Analytics ",
           dets: "9(1), 53–76. ",
@@ -39,8 +39,8 @@ class Publications extends React.Component {
           id: "journal2",
           author:
             "Mallavarapu, A.",
-          otherAuthor: ",Uzzo, S., & Lyons, L. (2021).",
-          moreAuthor:"",
+          otherAuthor: "",
+          moreAuthor: ",Uzzo, S., & Lyons, L. (2021).",
           title:"Formative Fugues: Reconceptualizing Formative Feedback for Complex Systems Learning Environments. ",
           venue: "International Journal of Complexity in Education ",
           dets: "2(2), 4-46",
@@ -61,8 +61,8 @@ class Publications extends React.Component {
           id: "journal1",
           author:
             "Mallavarapu, A.",
-          otherAuthor: ",Lyons, L., Slattery, B., Shelley, T., Minor, E., & Zellner, M. (2015).",
-          moreAuthor:"",
+          otherAuthor: "",
+          moreAuthor:",Lyons, L., Slattery, B., Shelley, T., Minor, E., & Zellner, M. (2015).",
           title:"Developing Computational Methods to Measure and Track Learners’ Spatial Reasoning in an Open-Ended Simulation. ",
           venue: "Journal of Educational Data Mining ",
           dets: "7(2), 49-82",
@@ -74,8 +74,8 @@ class Publications extends React.Component {
           id: "conference1",
           author:
             "Mallavarapu, A.",
-          otherAuthor:", Lyons, L., Uzzo, S., Thompson, W., Levy-Cohen, R., & Slattery, B. (2019, April).",
-          moreAuthor:"",
+          otherAuthor:"",
+          moreAuthor:", Lyons, L., Uzzo, S., Thompson, W., Levy-Cohen, R., & Slattery, B. (2019, April).",
           title:"Connect-to-Connected Worlds: Piloting a Mobile, Data-Driven Reflection Tool for an Open-Ended Simulation at a Museum. ",
           venue: "In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
           dets: "(p. 7). ACM",
@@ -107,8 +107,8 @@ class Publications extends React.Component {
           id: "poster5",
           author:
             "Mallavarapu, A.",
-          otherAuthor:", Lyons, L. (2020, July).",
-          moreAuthor:"",
+          otherAuthor:"",
+          moreAuthor:", Lyons, L. (2020, July).",
           title:"Exploration Maps, Beyond Top Scores: Designing Formative Feedback for Open-Ended Problems. ",
           venue: "In Proceedings of the International Conference on Educational Data Mining (EDM). (p. 6).",
           link: conference2 

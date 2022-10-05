@@ -36,11 +36,14 @@ class Projects extends React.Component {
                 <div className="line-mf"></div>
               </div>
             </div>
+            </div>
+            
             <div className="row">
             <div className="title-box text-left">
                 <h3 className="title" style={{color:"white", marginTop: "10px", marginBottom:"10px"}}>Recent Projects</h3>
           </div>
           </div>
+          
           <div className="row">
             <div className="col-md-4">
               <div className="work-box">
@@ -139,7 +142,7 @@ class Projects extends React.Component {
             </div>
             
             
-          </div>
+          
           <div className="row">
           <div className="title-box text-left">
                 <h3 className="title" style={{color:"white", marginTop: "10px", marginBottom:"10px"}}>Doctoral Projects</h3>
