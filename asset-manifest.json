@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/aditi-portfolio/static/css/main.0487006b.chunk.css",
-    "main.js": "/aditi-portfolio/static/js/main.4b1f363b.chunk.js",
-    "main.js.map": "/aditi-portfolio/static/js/main.4b1f363b.chunk.js.map",
+    "main.js": "/aditi-portfolio/static/js/main.6c184340.chunk.js",
+    "main.js.map": "/aditi-portfolio/static/js/main.6c184340.chunk.js.map",
     "runtime-main.js": "/aditi-portfolio/static/js/runtime-main.1c69c865.js",
     "runtime-main.js.map": "/aditi-portfolio/static/js/runtime-main.1c69c865.js.map",
     "static/css/2.cc208727.chunk.css": "/aditi-portfolio/static/css/2.cc208727.chunk.css",
-    "static/js/2.f04349ae.chunk.js": "/aditi-portfolio/static/js/2.f04349ae.chunk.js",
-    "static/js/2.f04349ae.chunk.js.map": "/aditi-portfolio/static/js/2.f04349ae.chunk.js.map",
+    "static/js/2.edd61b3c.chunk.js": "/aditi-portfolio/static/js/2.edd61b3c.chunk.js",
+    "static/js/2.edd61b3c.chunk.js.map": "/aditi-portfolio/static/js/2.edd61b3c.chunk.js.map",
     "index.html": "/aditi-portfolio/index.html",
-    "precache-manifest.4d2d26a57049335d3d1b19d8b6705c16.js": "/aditi-portfolio/precache-manifest.4d2d26a57049335d3d1b19d8b6705c16.js",
+    "precache-manifest.6218c0e82aeaaf744e5205f17792e6dc.js": "/aditi-portfolio/precache-manifest.6218c0e82aeaaf744e5205f17792e6dc.js",
     "service-worker.js": "/aditi-portfolio/service-worker.js",
     "static/css/2.cc208727.chunk.css.map": "/aditi-portfolio/static/css/2.cc208727.chunk.css.map",
     "static/css/main.0487006b.chunk.css.map": "/aditi-portfolio/static/css/main.0487006b.chunk.css.map",
-    "static/js/2.f04349ae.chunk.js.LICENSE.txt": "/aditi-portfolio/static/js/2.f04349ae.chunk.js.LICENSE.txt",
+    "static/js/2.edd61b3c.chunk.js.LICENSE.txt": "/aditi-portfolio/static/js/2.edd61b3c.chunk.js.LICENSE.txt",
     "static/media/Aditi_CV_Oct2022.pdf": "/aditi-portfolio/static/media/Aditi_CV_Oct2022.ba9bb0ac.pdf",
     "static/media/CIRCLSsna.png": "/aditi-portfolio/static/media/CIRCLSsna.aea7de13.png",
     "static/media/CW.png": "/aditi-portfolio/static/media/CW.09fc1a19.png",
+    "static/media/Closeout setup.jpg": "/aditi-portfolio/static/media/Closeout setup.392bf14f.jpg",
     "static/media/bw-girl.png": "/aditi-portfolio/static/media/bw-girl.16d57d19.png",
     "static/media/carbon.png": "/aditi-portfolio/static/media/carbon.8e13187f.png",
     "static/media/causal.png": "/aditi-portfolio/static/media/causal.7722b4ea.png",
@@ -45,8 +46,8 @@
   "entrypoints": [
     "static/js/runtime-main.1c69c865.js",
     "static/css/2.cc208727.chunk.css",
-    "static/js/2.f04349ae.chunk.js",
+    "static/js/2.edd61b3c.chunk.js",
     "static/css/main.0487006b.chunk.css",
-    "static/js/main.4b1f363b.chunk.js"
+    "static/js/main.6c184340.chunk.js"
   ]
 }
