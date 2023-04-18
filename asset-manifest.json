@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/aditi-portfolio/static/css/main.2496bb65.css",
-    "main.js": "/aditi-portfolio/static/js/main.aab655ed.js",
+    "main.js": "/aditi-portfolio/static/js/main.fd5eab6f.js",
+    "static/media/Aditi_CV_ProfessorBook_April2023.docx.pdf": "/aditi-portfolio/static/media/Aditi_CV_ProfessorBook_April2023.docx.b514f1a882d0c8eff267.pdf",
     "static/media/Closeoutsetup.jpg": "/aditi-portfolio/static/media/Closeoutsetup.2b8198b2f2ca9f81336d.jpg",
-    "static/media/Aditi_CV_Oct2022.pdf": "/aditi-portfolio/static/media/Aditi_CV_Oct2022.9abe94293d224ff489ec.pdf",
     "static/media/conference1.pdf": "/aditi-portfolio/static/media/conference1.398f1582282fdabcc34e.pdf",
     "static/media/journal1.pdf": "/aditi-portfolio/static/media/journal1.afe41821a1308598f5f6.pdf",
     "static/media/CW.png": "/aditi-portfolio/static/media/CW.be00a72205eef2ac2a30.png",
@@ -39,10 +39,10 @@
     "static/media/tool.png": "/aditi-portfolio/static/media/tool.e78fa1b34df0e2738265.png",
     "index.html": "/aditi-portfolio/index.html",
     "main.2496bb65.css.map": "/aditi-portfolio/static/css/main.2496bb65.css.map",
-    "main.aab655ed.js.map": "/aditi-portfolio/static/js/main.aab655ed.js.map"
+    "main.fd5eab6f.js.map": "/aditi-portfolio/static/js/main.fd5eab6f.js.map"
   },
   "entrypoints": [
     "static/css/main.2496bb65.css",
-    "static/js/main.aab655ed.js"
+    "static/js/main.fd5eab6f.js"
   ]
 }
