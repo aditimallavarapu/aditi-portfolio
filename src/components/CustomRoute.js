@@ -62,7 +62,7 @@ const CustomRoute = () => {
             <Route path="/CIRCLS" component={CIRCLS} />
             <Route path="/MID" component={MID} />
             <Route path="/CM" component={CM} />
-            <Route path="in-situ" component={insitupage} />
+            <Route path="/in-situ" component={insitupage} />
            {/* <Route component={NotFound}/>*/}
           </Switch> 
        
