@@ -3,7 +3,7 @@ import { Grid, Cell } from 'react-mdl';
 import cm from '../img/Closeout setup.png'
 import '../components/stars.scss'
 import SeeMore from '../components/SeeMore'
-import CW from '../img/CW.png'
+import insitu from '../img/Closeout.jpg'
 
 class insituPage extends Component {
   render() {
@@ -25,7 +25,7 @@ class insituPage extends Component {
                           <h5 className="title" style={{marginTop: "5px", marginBottom:"0px"}}>Connected Worlds</h5>
                         </div>
                         <div className="col-sm-12">
-                              <img src={CW} alt="" className="img-fluid" />
+                              <img src={insitu} alt="" className="img-fluid" />
                               <p style={{marginTop:"5px"}}>
                               My research interests focuses on understanding how learning takes place in
                               open-ended learning environments (where learners learn via exploration). 

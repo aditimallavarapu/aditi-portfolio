@@ -17,7 +17,7 @@ import data from "../img/data.jpg"
 import circlssna from "../img/CIRCLSsna.png"
 import mid from "../img/mid.png"
 import cm from "../img/computationalmodel.png"
-import situ from "../img/Closeout setup.jpg"
+import situ from "../img/Closeoutsetup.jpg"
 import {Link} from 'react-router-dom';
 import "./stars.scss";
 
