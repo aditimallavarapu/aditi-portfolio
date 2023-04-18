@@ -19,6 +19,7 @@ class News extends React.Component {
                     </div>
                   </div>
                   <ul>
+                     <li><b>December 2022</b> Faciltated Engage AI Institute Forum roundtable session on Ethics of Designing and Using AI Applications in Education</li>
                      <li><b>August 2022</b> Facilitated Research on Artificial Intelligence for Education Listening sessions for National Educational Technology Plan (NETP) report for US Department of Education’s Office of Education Technology (OET),. </li>
                      <li><b>June 2022</b> Attended Consortium of Science of Socio-Technical Systems (CSST), Austin, TX</li>
                      <li><b>February 2022</b>	Recognized as Emerging Scholar in Research by CIRCLS team</li>
