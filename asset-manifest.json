@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aditi-portfolio/static/css/main.2496bb65.css",
-    "main.js": "/aditi-portfolio/static/js/main.c2c5d1e1.js",
+    "main.js": "/aditi-portfolio/static/js/main.aab655ed.js",
     "static/media/Closeoutsetup.jpg": "/aditi-portfolio/static/media/Closeoutsetup.2b8198b2f2ca9f81336d.jpg",
     "static/media/Aditi_CV_Oct2022.pdf": "/aditi-portfolio/static/media/Aditi_CV_Oct2022.9abe94293d224ff489ec.pdf",
     "static/media/conference1.pdf": "/aditi-portfolio/static/media/conference1.398f1582282fdabcc34e.pdf",
@@ -39,10 +39,10 @@
     "static/media/tool.png": "/aditi-portfolio/static/media/tool.e78fa1b34df0e2738265.png",
     "index.html": "/aditi-portfolio/index.html",
     "main.2496bb65.css.map": "/aditi-portfolio/static/css/main.2496bb65.css.map",
-    "main.c2c5d1e1.js.map": "/aditi-portfolio/static/js/main.c2c5d1e1.js.map"
+    "main.aab655ed.js.map": "/aditi-portfolio/static/js/main.aab655ed.js.map"
   },
   "entrypoints": [
     "static/css/main.2496bb65.css",
-    "static/js/main.c2c5d1e1.js"
+    "static/js/main.aab655ed.js"
   ]
 }
