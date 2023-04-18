@@ -26,6 +26,7 @@ import DATA from '../Projects/DATA'
 import CIRCLS from '../Projects/CIRCLS'
 import MID from '../Projects/MID'
 import CM from '../Projects/ComputationalModel'
+import insitupage from '../Projects/in-situ'
 const CustomRoute = () => {
     return (
       
@@ -61,6 +62,7 @@ const CustomRoute = () => {
             <Route path="/CIRCLS" component={CIRCLS} />
             <Route path="/MID" component={MID} />
             <Route path="/CM" component={CM} />
+            <Route path="in-situ" component={insitupage} />
            {/* <Route component={NotFound}/>*/}
           </Switch> 
        

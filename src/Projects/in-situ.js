@@ -5,7 +5,7 @@ import '../components/stars.scss'
 import SeeMore from '../components/SeeMore'
 import CW from '../img/CW.png'
 
-class computationalPage extends Component {
+class insituPage extends Component {
   render() {
     return(
         <>
@@ -104,4 +104,4 @@ class computationalPage extends Component {
   }
 }
 
-export default computationalPage;
+export default insituPage;
