@@ -38,8 +38,8 @@ class Intro extends React.Component {
                   <Typed
                     strings={[
                       "Scientist",
-                      "Researcher"
-                      
+                      "Researcher",
+                      "Tech Enthusiast"
                     ]}
                     typeSpeed={80}
                     backDelay={1100}
