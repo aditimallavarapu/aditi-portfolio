@@ -7,7 +7,7 @@ import BottomNavigationAction from "@material-ui/core/BottomNavigationAction";
 import NoteIcon from '@material-ui/icons/Note';
 import CastForEducationIcon from '@material-ui/icons/CastForEducation';
 import AccountBoxIcon from '@material-ui/icons/AccountBox';
-import CV from '../img/Aditi_CV_Oct2022.pdf'
+import CV from '../img/Aditi_CV_ProfessorBook_April2023.docx.pdf'
 import Publications from './Publications';
 import Portfolio from './portfolio';
 import Contact from './contact';
