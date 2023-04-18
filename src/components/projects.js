@@ -17,6 +17,7 @@ import data from "../img/data.jpg"
 import circlssna from "../img/CIRCLSsna.png"
 import mid from "../img/mid.png"
 import cm from "../img/computationalmodel.png"
+import situ from "../img/Closeout setup.jpg"
 import {Link} from 'react-router-dom';
 import "./stars.scss";
 
@@ -84,7 +85,7 @@ class Projects extends React.Component {
                         <div className="w-more">
                           
                             <span className="w-ctegory" >
-                              Mapping Research in emerging technology for education. 
+                              Mapping Research in emerging educational technology. 
                            </span>
                         </div>
                       </div>
@@ -192,6 +193,29 @@ class Projects extends React.Component {
               </div>
             </div>
             </div>
+            <div className="col-md-4">
+              <div className="work-box">
+              <Link to="/in-situ" >
+                  <div className="work-img">
+                    <img src={situ} alt="" className="img-fluid" />
+                  </div>
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-12">
+                        <h2 className="w-title">Methodology for in-situ user testing</h2>
+                        <div className="w-more">
+                            <span className="w-ctegory" >
+                             Methodology for understanding the use of animations as formative feedback.
+                           </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </Link>
+              </div>
+            </div>
+            </div>
+
             <div className="row">
             <div className="title-box text-left">
                 <h3 className="title" style={{color:"white", marginTop: "10px", marginBottom:"10px"}}>Other Projects</h3>
