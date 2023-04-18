@@ -66,12 +66,11 @@ class insituPage extends Component {
                         <h4>Methodology for testing the use of animations as formative feedback for open-ended settings with children</h4>
                         </div>
                         <Grid>
-                            <Cell col={6}>
+                            <Cell col={12}>
                             <img src={insitu} alt="Setup for testing fugue based animations" className="img-fluid" />
                             </Cell>
-                            <Cell col={1}>
-                            </Cell>
-                            <Cell col={5}>
+                            
+                            <Cell col={12}>
                              
                              <h6>
                              This work informs a set of case-studies that showcase the methodologies to test and understand the use of a novel formative feedback medium that are short animations based on computationally extracted fugues. This work informs the prior work that innovated a novel data-driven formative feedback extraction method, that can provide learners exploration support. My prior work termed the extracted feedback as "fugues," as defined by Reitman (1965) for musical compositions. The fugues are rhyming causal sequences (short reusable exploration paths, explaining semantics of actions), used to represent complex scientific concepts that were encountered during the interaction with Connected Worlds. These fugues were represented in short tik-tok style animated videos, wherein each short animation represents a small causal part of the phenomena, and can be connected together in varying orders to indicate different scientific phenomena like disequilibrium, unstablity, or sustainability within the complex system. This work proposes a methodlogy that can help researchers understand the value in refining the representation of these fugue based animations for clearer comprehension about complex scientific concepts. The children within their family units were asked, (post interaction with Connected Worlds) to re-arrange the shorter causal peices to create a narrative that was experienced by them. Despite a defined prompt, the children came up with multiple causal narratives displaying an understanding of different conceptual complex concepts. The case-studies expose the strengths of how animations were successful in exposing complex systems concepts that relate to distant causal connections, that are non-obvious and those that relate to both systemic and social contexts of their interactions (which has been a challenge in prior complex systems learning environments). 
