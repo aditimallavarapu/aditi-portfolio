@@ -43,8 +43,7 @@ class About extends Component {
                             the one of the kind mixed-reality, large-scale digital exhibit Connected Worlds. Combining the human-centered 
                             approach working alongside educators, learners and other practitioners, with the technical data-driven approaches, 
                             Aditi is driven to improve and aid learning in open-ended learning environments designed to engage learners 
-                            in real-world complex problems. You can reach Aditi at  
-                            <span class="email"><a href="mailto:amallavarapu@digitalpromise.org">amallavarapu@digitalpromise.org</a></span>
+                            in real-world complex problems. You can reach Aditi at <span class="email"><a href="mailto:amallavarapu@digitalpromise.org"> amallavarapu@digitalpromise.org</a></span>
 
                             {/*<p>
                             Aditi Mallavarapu is working as a post doctoral learning sciences and technology researcher at Digital Promise. 
