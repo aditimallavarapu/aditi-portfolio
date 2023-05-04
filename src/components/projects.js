@@ -18,6 +18,7 @@ import circlssna from "../img/CIRCLSsna.png"
 import mid from "../img/mid.png"
 import cm from "../img/computationalmodel.png"
 import situ from "../img/Closeoutsetup.jpg"
+import meta from "../img/llm.png"
 import {Link} from 'react-router-dom';
 import "./stars.scss";
 
@@ -71,6 +72,29 @@ class Projects extends React.Component {
                 </Link>
               </div>
             </div>
+
+            <div className="col-md-4">
+              <div className="work-box">
+                <Link to="/llm" >
+                  <div className="work-img">
+                    <img src={situ} alt="" className="img-fluid" />
+                  </div>
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-12">
+                        <h2 className="w-title">Large Language Models for Advocacy</h2>
+                          <div className="w-more">
+                            <span className="w-ctegory" >
+                             Leveraging large language models to aid data advocacy.
+                           </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </Link>
+              </div>
+            </div>
+          </div>
 
             <div className="col-md-4">
               <div className="work-box">
